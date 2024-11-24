@@ -5,8 +5,8 @@ I also read an article on how __Starbucks is like a bank__ on Groww, and found i
 
 So, being a coffee lover and someone intrested in business mechanisms, I decided to take up this project. (My favourite is Caramel Latte, Thanks :) 
 
-![image](https://github.com/Harry4007/Starbucks-Customer-Segmentation/assets/86561124/db204c3c-5cdf-421c-a00c-ae3a7edb1287)
-![image](https://github.com/Harry4007/Starbucks-Customer-Segmentation/assets/86561124/f259c730-3e60-49b1-96c4-4855bdcbb8d8)
+![image](https://github.com/ayush-agarwal-0502/Starbucks-Customer-Segmentation/assets/86561124/db204c3c-5cdf-421c-a00c-ae3a7edb1287)
+![image](https://github.com/ayush-agarwal-0502/Starbucks-Customer-Segmentation/assets/86561124/f259c730-3e60-49b1-96c4-4855bdcbb8d8)
 
 * __ML Techniques used__ : K-Means, PCA, t-SNE, Gaussian Mixture Models, Silhouette plot, SSE/Inertia, Cluster Analysis
 * __Project Domains__ : Market Segmentation, Marketing, Data Science, Cluster Analysis
