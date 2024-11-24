@@ -15,7 +15,7 @@ __Q Why segment customers ???__
 
 Ans - Well, because it is still a very difficult and computationally intensive task to target each customer in unique ways, as well as there would be lots of customers on which similar Marketing strategies and Discount offers would work well. Hence it makes intutive sense to break the customer base into clusters on the basis of how and which offers they react to and then proceed to make targeted strategies. 
 
-## If I had a minute to tell u about this project - 
+## About this project - 
 
 * Coffee, Business, Marketing, Data Science , Action !
 * Performed __Data Engineering__ to merge the 3 datasets, performed __Data Cleaning__ (Some enteries were errors cause their data was missing as well as age was 118 which seemed to be an error).
