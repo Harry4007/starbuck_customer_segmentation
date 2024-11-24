@@ -1,14 +1,12 @@
 # Starbucks-Customer-Segmentation
 Customer segmentation for Starbucks reward program members on the basis of their reactions to offers, to further assist marketing team design marketing strategies accordingly 
 
-I watched the netflix documentary __"The Social Dilemma"__ and got fascinated by how marketing strategies use Data Science in our era of Big Data.
-
-I also read an article on how __Starbucks is like a bank__ on Groww ( yeah, me proud reader of Groww and Finshots), and found it intresting how starbucks earns lot of money through intrest earned on the money deposited. Being a curious person, I decided to investigate how starbucks convinced its customers to deposit so much money with them. That's how I discovered Starbuck's reward program. 
+I also read an article on how __Starbucks is like a bank__ on Groww, and found it intresting how starbucks earns lot of money through intrest earned on the money deposited. Being a curious person, I decided to investigate how starbucks convinced its customers to deposit so much money with them. That's how I discovered Starbuck's reward program. 
 
 So, being a coffee lover and someone intrested in business mechanisms, I decided to take up this project. (My favourite is Caramel Latte, Thanks :) 
 
-![image](https://github.com/ayush-agarwal-0502/Starbucks-Customer-Segmentation/assets/86561124/db204c3c-5cdf-421c-a00c-ae3a7edb1287)
-![image](https://github.com/ayush-agarwal-0502/Starbucks-Customer-Segmentation/assets/86561124/f259c730-3e60-49b1-96c4-4855bdcbb8d8)
+![image](https://github.com/Harry4007/Starbucks-Customer-Segmentation/assets/86561124/db204c3c-5cdf-421c-a00c-ae3a7edb1287)
+![image](https://github.com/Harry4007/Starbucks-Customer-Segmentation/assets/86561124/f259c730-3e60-49b1-96c4-4855bdcbb8d8)
 
 * __ML Techniques used__ : K-Means, PCA, t-SNE, Gaussian Mixture Models, Silhouette plot, SSE/Inertia, Cluster Analysis
 * __Project Domains__ : Market Segmentation, Marketing, Data Science, Cluster Analysis
